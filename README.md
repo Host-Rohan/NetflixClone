@@ -7,3 +7,4 @@ I used Advance CSS3+ topics like Grid, Flex, Overlays, Shadows, Variablesetc.
 
 I used SVG icons of Font-Awesome an used ES6 to add events on tabs.  
 
+visit the site at #https://host-rohan.github.io/NetflixClone/
